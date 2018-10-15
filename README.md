@@ -1,7 +1,8 @@
 ![LOGO](src/img/logo.png)
 
 # Ramen Email- an instant email
-  
+website: https://swsiwu.github.io/RamenEmail/
+
 ## Why Ramen Email?
 Want to send a email to yourself right away without logging into your gmail/yahoo/outlook account?
 
@@ -10,7 +11,7 @@ Want to send a email to yourself right away without logging into your gmail/yaho
 **Good for: Quick reminder, title-only email**
 
 
-__Disclaimer: Do not use it to spam other people.__
+Disclaimer: Do not use it to spam other people.
 
 ## Tech Specs
 API: Gmail API
