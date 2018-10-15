@@ -7,10 +7,10 @@ Want to send a email to yourself right away without logging into your gmail/yaho
 
 ==>Ramen Email can send an email right away from our email address
 
-* Good for: Quick reminder, title-only email *
+**Good for: Quick reminder, title-only email**
 
 
-Disclaimer: Do not use it to spam other people.
+__Disclaimer: Do not use it to spam other people.__
 
 ## Tech Specs
 API: Gmail API
