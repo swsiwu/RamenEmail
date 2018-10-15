@@ -1,3 +1,5 @@
+![LOGO](src/img/logo.png)
+
 # Ramen Email- an instant email
   
 ## Why Ramen Email?
