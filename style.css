@@ -1,0 +1,42 @@
+html {
+    background-color: antiquewhite;
+}
+
+body {
+    width: 50%;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#logo {
+    
+}
+
+p {
+    font-family: roboto;
+    font-size: 2em;
+}
+
+.choices {
+    display: block;
+    align-content: center;
+    text-align: center;
+    
+    
+}
+
+.choice_button {
+    font-size: 2em;
+    font-family: roboto;
+    color:black;
+    font-weight: 600;
+    background-color: sandybrown;
+    margin: 1rem;
+    border: 1rem;
+    padding: 1rem;
+   
+    border-radius: 5em;
+}
