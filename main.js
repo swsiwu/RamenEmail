@@ -38,12 +38,6 @@ $(document).ready(function () {
         
         
         
-        
-
-        /* var title_label = 
-         
-         var content_label = 
-         var submit_button = */
     });
     
 
